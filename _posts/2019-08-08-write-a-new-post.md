@@ -46,9 +46,9 @@ tags: bee
 jekyll-theme-chirpy
 ├── categories
 │   ├── animal.html
-│   └── tutorial.html
-└── tags
-    └── bee.html
+│   └── insect.html
+├── tags
+│   └── bee.html
 ```
     
     and the content of a *category* type page is
