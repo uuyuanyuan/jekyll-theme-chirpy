@@ -41,7 +41,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
 
-      - name: Install gnu-coreutils for macOS
+      - name: Install GNU-Coreutils(for macOS)
         if: runner.os == 'macOS'
         run: |
           brew install coreutils
